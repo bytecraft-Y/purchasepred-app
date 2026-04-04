@@ -71,4 +71,4 @@ with st.sidebar:
 
 # Footer
 st.markdown("---")
-st.caption("🛠️ Simple & Improved Purchase Prediction App | Built for Absolute Beginners")
+#st.caption("🛠️ Simple & Improved Purchase Prediction App | Built for Absolute Beginners")

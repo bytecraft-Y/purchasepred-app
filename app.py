@@ -93,4 +93,4 @@ with st.sidebar:
     st.markdown("---")
     st.caption("Made for absolute beginners")
 
-st.caption("🛠️ Improved Purchase Prediction App with Multiple Models")
+#st.caption("🛠️ Improved Purchase Prediction App with Multiple Models")

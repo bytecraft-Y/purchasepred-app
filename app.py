@@ -38,7 +38,7 @@ with col2:
     discount = st.radio("🎟️ Used Discount?", [0, 1], format_func=lambda x: "Yes" if x == 1 else "No", horizontal=True)
 
 # Predict Button
-if st.button("🔮 Predict Purchase", type="primary", use_container_width=True):
+if st.button("🤖 Predict Purchase", type="primary", use_container_width=True):
     
     # Prepare input
     input_data = pd.DataFrame({
